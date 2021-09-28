@@ -1,0 +1,12 @@
+.app {
+  margin: 2rem auto;
+  width: 90vw;
+}
+
+.app > h1 {
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  border-bottom: rgb(57,100,175) 2px solid;
+}
+
