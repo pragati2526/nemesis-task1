@@ -2,7 +2,7 @@
   "name": "nemesis-task1",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/pragati2526/nemesis-task1.git",
+  "homepage":"https://pragati2526.github.io/nemesis-task1/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/lab": "^4.0.0-alpha.60",
