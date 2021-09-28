@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pragati2526/nemesis-task1.git/static/css/main.bcec7f72.chunk.css",
+    "main.js": "/pragati2526/nemesis-task1.git/static/js/main.b3fba029.chunk.js",
+    "main.js.map": "/pragati2526/nemesis-task1.git/static/js/main.b3fba029.chunk.js.map",
+    "runtime-main.js": "/pragati2526/nemesis-task1.git/static/js/runtime-main.16ab3e92.js",
+    "runtime-main.js.map": "/pragati2526/nemesis-task1.git/static/js/runtime-main.16ab3e92.js.map",
+    "static/js/2.cb40886c.chunk.js": "/pragati2526/nemesis-task1.git/static/js/2.cb40886c.chunk.js",
+    "static/js/2.cb40886c.chunk.js.map": "/pragati2526/nemesis-task1.git/static/js/2.cb40886c.chunk.js.map",
+    "static/js/3.7a7a26b1.chunk.js": "/pragati2526/nemesis-task1.git/static/js/3.7a7a26b1.chunk.js",
+    "static/js/3.7a7a26b1.chunk.js.map": "/pragati2526/nemesis-task1.git/static/js/3.7a7a26b1.chunk.js.map",
+    "static/js/4.8e5334d0.chunk.js": "/pragati2526/nemesis-task1.git/static/js/4.8e5334d0.chunk.js",
+    "static/js/4.8e5334d0.chunk.js.map": "/pragati2526/nemesis-task1.git/static/js/4.8e5334d0.chunk.js.map",
+    "static/js/5.6971ce5e.chunk.js": "/pragati2526/nemesis-task1.git/static/js/5.6971ce5e.chunk.js",
+    "static/js/5.6971ce5e.chunk.js.map": "/pragati2526/nemesis-task1.git/static/js/5.6971ce5e.chunk.js.map",
+    "index.html": "/pragati2526/nemesis-task1.git/index.html",
+    "static/css/main.bcec7f72.chunk.css.map": "/pragati2526/nemesis-task1.git/static/css/main.bcec7f72.chunk.css.map",
+    "static/js/2.cb40886c.chunk.js.LICENSE.txt": "/pragati2526/nemesis-task1.git/static/js/2.cb40886c.chunk.js.LICENSE.txt",
+    "static/js/3.7a7a26b1.chunk.js.LICENSE.txt": "/pragati2526/nemesis-task1.git/static/js/3.7a7a26b1.chunk.js.LICENSE.txt",
+    "static/js/4.8e5334d0.chunk.js.LICENSE.txt": "/pragati2526/nemesis-task1.git/static/js/4.8e5334d0.chunk.js.LICENSE.txt",
+    "static/js/5.6971ce5e.chunk.js.LICENSE.txt": "/pragati2526/nemesis-task1.git/static/js/5.6971ce5e.chunk.js.LICENSE.txt",
+    "static/media/logo.031dc713.png": "/pragati2526/nemesis-task1.git/static/media/logo.031dc713.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16ab3e92.js",
+    "static/js/2.cb40886c.chunk.js",
+    "static/css/main.bcec7f72.chunk.css",
+    "static/js/main.b3fba029.chunk.js"
+  ]
+}
