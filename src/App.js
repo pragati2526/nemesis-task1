@@ -4,12 +4,10 @@ import './App.css';
 import axios from 'axios';
 import logo from './logo.png'
 import { Alert, AlertTitle } from '@material-ui/lab';
-//import { AddBox, ArrowDownward } from "@material-ui/icons";
 
 // regex for email validation
 const validateEmail = (email) => {
   const re = /^[a-zA-Z0-9]+@+[a-zA-Z0-9]+.+[A-z]/
-// /^((?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\]))$/;
   return re.test(String(email).toLowerCase());
 }
 
@@ -27,17 +25,13 @@ const App = () => {
     { title: 'PHONE', field: 'phone' },
     { title: 'WEBSITE', field: 'website' },
   ]
-
-  // let data = [
-  //   { name: 'manish', username: 'traptrick', email: 'themk85@gmail.com', phone: '9999999999', website: 'https://github.com/traptrick' }
-  // ]  
+ 
 
   useEffect(() => {
     axios.get(`https://jsonplaceholder.typicode.com/users`)
       .then(res => {
         const users = res.data;
         setUser(users);
-        // console.log(users);
       })
   }, [])
 
